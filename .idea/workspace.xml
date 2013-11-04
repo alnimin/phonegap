@@ -5,10 +5,11 @@
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/namedconfig.xml" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383574133418" ignored="false" />
-    <file path="/index.html" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383579104893" ignored="false" />
+    <file path="/index.html" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383579929946" ignored="false" />
     <file path="/main.js" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383579230901" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383579492090" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383579525435" ignored="false" />
     <file path="/HomeView.js" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383579029391" ignored="false" />
+    <file path="/styles.css" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383580032965" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,10 +29,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="188" column="17" selection-start="3909" selection-end="3909" vertical-scroll-proportion="2.7771144">
               <folding />
             </state>
           </provider>
@@ -40,7 +41,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="45" selection-start="709" selection-end="709" vertical-scroll-proportion="-16.285715">
+            <state line="16" column="12" selection-start="433" selection-end="433" vertical-scroll-proportion="-10.857142">
               <folding />
             </state>
           </provider>
@@ -55,10 +56,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="17" selection-start="418" selection-end="418" vertical-scroll-proportion="0.33595285">
+            <state line="14" column="5" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -75,9 +76,10 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/namedconfig.xml" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/HomeView.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
       </list>
     </option>
   </component>
@@ -188,8 +190,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="fileTemplates" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -317,9 +319,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/storage/memory-store.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="2" column="13" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
@@ -348,16 +348,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/storage/websql-store.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/storage/ls-store.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/namedconfig.xml">
@@ -367,25 +363,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/storage/memory-store.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="75" selection-end="75" vertical-scroll-proportion="0.018905472">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="45" selection-start="709" selection-end="709" vertical-scroll-proportion="-16.285715">
-          <folding />
-        </state>
+        <state line="2" column="13" selection-start="75" selection-end="75" vertical-scroll-proportion="0.018905472" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/HomeView.js">
@@ -397,7 +377,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="17" selection-start="418" selection-end="418" vertical-scroll-proportion="0.33595285">
+        <state line="14" column="5" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="12" selection-start="433" selection-end="433" vertical-scroll-proportion="-10.857142">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="188" column="17" selection-start="3909" selection-end="3909" vertical-scroll-proportion="2.7771144">
           <folding />
         </state>
       </provider>
