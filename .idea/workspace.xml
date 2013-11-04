@@ -5,11 +5,12 @@
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/namedconfig.xml" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383574133418" ignored="false" />
-    <file path="/index.html" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383579929946" ignored="false" />
-    <file path="/main.js" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383579230901" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383579525435" ignored="false" />
+    <file path="/index.html" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383584757279" ignored="false" />
+    <file path="/main.js" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383584651343" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383584760690" ignored="false" />
     <file path="/HomeView.js" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383579029391" ignored="false" />
-    <file path="/styles.css" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383580032965" ignored="false" />
+    <file path="/styles.css" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383581020946" ignored="false" />
+    <file path="/EmployeeView.js" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383584560498" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +30,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="188" column="17" selection-start="3909" selection-end="3909" vertical-scroll-proportion="2.7771144">
+            <state line="204" column="1" selection-start="4140" selection-end="4140" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -41,7 +42,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="12" selection-start="433" selection-end="433" vertical-scroll-proportion="-10.857142">
+            <state line="46" column="51" selection-start="1489" selection-end="1489" vertical-scroll-proportion="-25.857143">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmployeeView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/EmployeeView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="34" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -56,10 +66,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="5" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0">
+            <state line="19" column="0" selection-start="433" selection-end="433" vertical-scroll-proportion="0.3546169">
               <folding />
             </state>
           </provider>
@@ -77,9 +87,10 @@
       <list>
         <option value="$PROJECT_DIR$/namedconfig.xml" />
         <option value="$PROJECT_DIR$/js/HomeView.js" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/js/EmployeeView.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
       </list>
     </option>
   </component>
@@ -178,6 +189,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegap-workshop-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -296,13 +325,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="7" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
@@ -363,9 +385,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="204" column="1" selection-start="4140" selection-end="4140" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/storage/memory-store.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="75" selection-end="75" vertical-scroll-proportion="0.018905472" />
+        <state line="10" column="36" selection-start="429" selection-end="429" vertical-scroll-proportion="0.17014925">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/EmployeeView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="34" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/HomeView.js">
@@ -375,23 +413,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="5" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="12" selection-start="433" selection-end="433" vertical-scroll-proportion="-10.857142">
+        <state line="46" column="51" selection-start="1489" selection-end="1489" vertical-scroll-proportion="-25.857143">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="188" column="17" selection-start="3909" selection-end="3909" vertical-scroll-proportion="2.7771144">
+        <state line="19" column="0" selection-start="433" selection-end="433" vertical-scroll-proportion="0.3546169">
           <folding />
         </state>
       </provider>
