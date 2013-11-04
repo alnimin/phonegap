@@ -5,6 +5,9 @@
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/namedconfig.xml" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383574133418" ignored="false" />
+    <file path="/index.html" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383574999170" ignored="false" />
+    <file path="/main.js" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383575120370" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="e6a50167-48db-4559-b9ba-cd07f33b348d" time="1383575177135" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,25 +39,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="7" selection-start="352" selection-end="352" vertical-scroll-proportion="-10.178572">
+            <state line="15" column="9" selection-start="384" selection-end="384" vertical-scroll-proportion="-10.178572">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="namedconfig.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/namedconfig.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="21" selection-start="415" selection-end="415" vertical-scroll-proportion="0.26129666">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="17" selection-start="657" selection-end="657" vertical-scroll-proportion="0.0">
+            <state line="33" column="17" selection-start="991" selection-end="991" vertical-scroll-proportion="0.6238806">
               <folding />
             </state>
           </provider>
@@ -79,8 +73,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/namedconfig.xml" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
   </component>
@@ -151,6 +146,34 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="phonegap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegap-workshop-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegap-workshop-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -304,7 +327,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/jquery-1.8.2.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/iscroll.js">
@@ -324,21 +351,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
+    <entry file="file://$PROJECT_DIR$/js/storage/websql-store.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="17" selection-start="657" selection-end="657" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/storage/websql-store.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/storage/ls-store.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/namedconfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="21" selection-start="415" selection-end="415" vertical-scroll-proportion="0.26129666">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/storage/memory-store.js">
@@ -350,14 +381,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="7" selection-start="352" selection-end="352" vertical-scroll-proportion="-10.178572">
+        <state line="15" column="9" selection-start="384" selection-end="384" vertical-scroll-proportion="-10.178572">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/namedconfig.xml">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="21" selection-start="415" selection-end="415" vertical-scroll-proportion="0.26129666">
+        <state line="33" column="17" selection-start="991" selection-end="991" vertical-scroll-proportion="0.6238806">
           <folding />
         </state>
       </provider>
