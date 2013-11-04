@@ -36,7 +36,7 @@ var EmployeeView = function(employee){
     var phoneNumbers = [];
     phoneNumbers[0] = new ContactField('work', employee.officePhone, false);
     phoneNumbers[0] = new ContactField('mobile', employee.cellPhone, true); //preferred
-    contact.phoneNumberes = phoneNumbers;
+    contact.phoneNumbers = phoneNumbers;
     contact.save();
     return false;
   };

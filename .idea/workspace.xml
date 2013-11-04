@@ -42,7 +42,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="65" selection-start="1494" selection-end="1494" vertical-scroll-proportion="-22.535715">
+            <state line="42" column="65" selection-start="1494" selection-end="1494" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -60,7 +60,7 @@
       <file leaf-file-name="EmployeeView.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/EmployeeView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="19" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.7200393">
+            <state line="40" column="17" selection-start="1305" selection-end="1305" vertical-scroll-proportion="0.7387033">
               <folding />
             </state>
           </provider>
@@ -219,8 +219,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="fileTemplates" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -380,9 +380,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/storage/memory-store.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="36" selection-start="429" selection-end="429" vertical-scroll-proportion="0.17014925">
-          <folding />
-        </state>
+        <state line="10" column="36" selection-start="429" selection-end="429" vertical-scroll-proportion="0.17014925" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/HomeView.js">
@@ -401,7 +399,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="65" selection-start="1494" selection-end="1494" vertical-scroll-proportion="-22.535715">
+        <state line="42" column="65" selection-start="1494" selection-end="1494" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -415,14 +413,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/handlebars.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/EmployeeView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="19" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.7200393">
+        <state line="40" column="17" selection-start="1305" selection-end="1305" vertical-scroll-proportion="0.7387033">
           <folding />
         </state>
       </provider>
